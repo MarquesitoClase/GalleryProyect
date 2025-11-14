@@ -1,3 +1,13 @@
 *{
     background-color: cyan;
 }
+table td{
+    border: 1px, solid, blueviolet;
+}
+
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
