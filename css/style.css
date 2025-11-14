@@ -2,7 +2,7 @@
     background-color: cyan;
 }
 table td{
-    border: 1px, solid, blueviolet;
+    border: 1px solid blueviolet;
 }
 
 .left{
@@ -10,4 +10,10 @@ table td{
 }
 .right{
     float:right;
+}
+
+main::after {
+    content: "";
+    display: block;
+    clear: both;
 }
