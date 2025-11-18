@@ -1,5 +1,5 @@
 <section>
-    <h2>Numéria</h2>
+    <h1>Numéria</h1>
   <h2>mi país imaginario</h2>
 
   <h3>Paginas del site</h3>
